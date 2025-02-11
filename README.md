@@ -5,4 +5,4 @@ Data files are named according to the redshift and mass bins. '_all' are data po
 All files have the same columns 
 # mag_abs_i gal_density err_gal_density
 
-gal_density and err_gal_density are in units of  Galaxies . Mpc^{-2} . (0.5 mag)^{-1}
+gal_density and err_gal_density are in units of  Galaxies . Mpc$^{-2}$ . (0.5 mag)$^{-1}$
